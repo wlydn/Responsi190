@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Responsi190</string>
+    <string name="btn_link_signup">Tidak Memiliki Akun ? Daftar Disini !</string>
+    <string name="hint_password">Masukkan Password</string>
+    <string name="hint_gender">Saya</string>
+    <string name="username">Username</string>
+    <string name="male">Laki-Laki</string>
+    <string name="female">Perempuan</string>
+    <string name="btn_sign_up">BUAT AKUN</string>
+    <string name="btn_link_login">Sudah Punya Akun ? Login !</string>
+    <string name="name">Nama Kamu</string>
+    <string name="pswd">Password</string>
+    <string name="nama_hp">Nama Handphone</string>
+    <string name="detail">Detail</string>
+    <string name="account">Account</string>
+</resources>
